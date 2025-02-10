@@ -4,20 +4,20 @@ Modified: 2025-02-03 14:08
 Category: FIAB
 Tags: FIAB
 Slug: gruppi-di-lavoro
-Summary: Fiab Cosenza Ciclabile i gruppi di lavoro
+Summary: I gruppi di lavoro. Trasformiamo il territorio!
 Image: https://fiabitalia.it/wp-content/uploads/2020/03/socio-fiab.jpg
 
 ##Il gruppo tracce<a name="tracce"></a>
-Il gruppo tracce è composto da meticolosi 'esploratori' che annotano costantemente i loro spostamenti sia in area urbana sia in area extraurbana. Lo scopo è quello di costruire una raccolta efficace di 'percorsi Ciclabili' che favoriscano gli spostamenti di tutti coloro che si muovono in città, ma anche di coloro che usano la bicicletta per uso ludico o per visitare paesi e borghi della nostra provincia.
+Il gruppo Tracce è il cuore pulsante della nostra attività sul territorio. I nostri "esploratori" annotano meticolosamente i loro spostamenti, sia in area urbana che extraurbana, per creare una raccolta dettagliata di percorsi ciclabili. Questa mappatura è uno strumento prezioso per tutti coloro che si muovono in bicicletta, sia per necessità che per piacere, e per chi desidera scoprire il nostro territorio su due ruote.
 
 ##Gruppo Comunicazione<a name="comunicazione"></a>
-Il gruppo comunicazione si occupa di dare visibilità alle attività di FIAB CosenzaCiclabile, di renderne nota la mission. Si propone di veicolare in modo corretto il messaggio di attenzione all'ambiente e alla mobilità sostenibile che è il cuore delle attività dell'associazione
+Il gruppo Comunicazione ha il compito di raccontare le attività di FIAB CosenzaCiclabile e di diffondere i valori che ci guidano: l'attenzione all'ambiente e la promozione della mobilità sostenibile. Il nostro obiettivo è comunicare in modo efficace l'importanza della bicicletta come mezzo di trasporto e strumento di cambiamento, sensibilizzando l'opinione pubblica e coinvolgendo nuovi membri nella nostra comunità.
 
 ##Gruppo Scuola<a name="scuola"></a>
-Il gruppo scuola pianifica e concretizza le attività che FIAB CosenzaCiclabile destina a giovani e giovanissimi. L'associazione è particolarmente attenta al mondo della scuola, riconoscendo che i più piccoli rappresentino il futuro in termini di coscienza ambientale, salvaguardia della natura ed attenzione all'ambiente circostante.
+Il gruppo Scuola è dedicato ai giovani e giovanissimi, perché crediamo che il futuro della mobilità sostenibile passi per le mani delle nuove generazioni. Pianifichiamo e realizziamo attività educative e di sensibilizzazione nelle scuole, per promuovere la cultura della bicicletta e l'importanza del rispetto per l'ambiente.
 
 ##Gruppo Relazioni PA<a name="pa"></a>
-Il gruppo relazioni con la Pubblica Amministrazione si offre come strumento di consulenza a tutti i soggetti che intendano investire in mobilità sostenibile. Offre la propria esperienza per la creazione di piste ciclabili, stalli, percorsi urbani, extraurbani, servizi ed in generale qualsiasi attività rivolta ad una migliore organizzazione della mobilità
+Il gruppo Relazioni con la Pubblica Amministrazione si propone come interlocutore e consulente per le istituzioni che intendono investire nella mobilità sostenibile. Offriamo la nostra esperienza per la creazione di piste ciclabili, parcheggi per biciclette, percorsi urbani ed extraurbani, e per tutte le iniziative volte a migliorare l'organizzazione della mobilità.
 
 ##Gruppo Eventi ed Attività<a name="eventi"></a>
-Il gruppo Eventi ad Attività organizza la logistica di tutte le manifestazioni correlate a FIAB CosenzaCiclabile. Trovano concretezza in questo gruppo gli eventi legati al Cicloturismo, alla Mobilità Urbana, al Bike and Beer etc. 
+Il gruppo Eventi e Attività è l'anima organizzativa di FIAB CosenzaCiclabile. Si occupa della logistica di tutte le nostre manifestazioni, dagli eventi legati al cicloturismo e alla mobilità urbana, fino alle iniziative più ludiche come il "Bike and Beer". Grazie al loro lavoro, riusciamo a creare momenti di incontro e di condivisione, per promuovere la passione per la bicicletta e il piacere di stare insieme.
