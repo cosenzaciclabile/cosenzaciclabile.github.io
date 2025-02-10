@@ -191,6 +191,10 @@ h4 {
 	-webkit-transition: all 0.2s ease;
 	transition: all 0.2s ease;
 }
+.logo {
+	width: 250px;
+	padding-bottom: 25px;
+}
 .btn1:hover {
 	color: #0069A9;
 	background: #ffffff;
