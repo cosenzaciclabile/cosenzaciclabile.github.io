@@ -24,7 +24,7 @@ Summary: Fiab Cosenza Ciclabile: statuto
 
 ##Art. 3 Durata
 
-L’Associazione ha durata illimitata.
+L’Associazione ha durata illimitata
 
 ##Art. 4 Oggetto e finalità
 
