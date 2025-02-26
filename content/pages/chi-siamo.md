@@ -33,5 +33,5 @@ Se condividi la nostra passione per la bicicletta e l'impegno per un futuro più
 
 Contatti
 
-Per maggiori informazioni sulle nostre attività o per entrare in contatto con noi, visita la sezione "Contatti" del nostro sito web.
+Per maggiori informazioni sulle nostre attività o per entrare in contatto con noi, visita la sezione "Contatti" del nostro sito web
 

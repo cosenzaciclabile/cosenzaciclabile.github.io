@@ -238,4 +238,4 @@ Il componente dell'Organo di controllo può in qualsiasi momento procedere ad at
 
 Per quanto non previsto dal presente Statuto, dagli eventuali Regolamenti interni e dalle deliberazioni degli organi associativi, si applica quanto previsto dal Decreto Legislativo 3 luglio 2017, n. 117 (Codice del terzo settore) e, in quanto compatibile, dalle norme del Codice Civile.
 
-Cosenza, 28 ottobre 2024
+Cosenza, 28 ottobre 2024.

@@ -36,4 +36,4 @@ Tuttavia, secondo alcuni costruttori, la presenza delle luci ripetitrici garanti
 
 ##Un chiarimento da parte del Ministero sarebbe opportuno.
 
-Intanto ci prendiamo la soddisfazione di aver ottenuto un buon risultato per chi pratica ciclismo e turismo outdoor, augurandoci che in futuro il confronto con i portatori d’interesse avvenga prima e non dopo l’elaborazione della norma.
+Intanto ci prendiamo la soddisfazione di aver ottenuto un buon risultato per chi pratica ciclismo e turismo outdoor, augurandoci che in futuro il confronto con i portatori d’interesse avvenga prima e non dopo l’elaborazione della norma

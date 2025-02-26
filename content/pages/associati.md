@@ -24,7 +24,7 @@ Associarsi a FIAB Cosenza Ciclabile è facile. Puoi farlo in tanti modi
 **Ragazzo 14/30 anni:** €20  
 **Bambino 5/13 anni:** €5  
 
-Se desideri attivare **l'abbonamento alla rivista BC**, è necessario aggiungere una quota di €6 ad uno degli abbonamenti precedenti
+Se desideri attivare **l'abbonamento alla rivista BC**, è necessario aggiungere una quota di €6 ad uno degli abbonamenti precedenti.
 
 Ricordati di inviare copia del bonifico all'indirizzo email **csciclabile@gmail.com**
 

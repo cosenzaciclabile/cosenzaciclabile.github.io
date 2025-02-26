@@ -54,5 +54,5 @@ Lei ha inoltre, se ritiene che i suoi diritti siano stati violati, ha il diritto
 
 Il Titolare non effettua profilazioni, cioè non utilizza in alcun modo processi decisionali automatizzati che riguardano i suoi dati personali, senza il suo coinvolgimento diretto ed un suo consenso esplicito.
 
-Si precisa che la presente Informativa deve ritenersi riferita e applicabile unicamente al Sito, senza estendersi alle pagine o ai siti accessibili mediante link e/o gestiti da terze parti.
+Si precisa che la presente Informativa deve ritenersi riferita e applicabile unicamente al Sito, senza estendersi alle pagine o ai siti accessibili mediante link e/o gestiti da terze parti
 
