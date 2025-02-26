@@ -3,7 +3,7 @@ Date: 2025-02-10 12:22
 Modified: 2025-02-10 12:22
 Category: FIAB
 Tags: FIAB
-Slug: associarsi-a-fiab-cosenzaciclabile
+Slug: privacy
 Summary: Le attività di Fiab Cosenza Ciclabile
 Image: https://fiabitalia.it/wp-content/uploads/2020/03/socio-fiab.jpg
 
@@ -11,7 +11,12 @@ POLICY PRIVACY SITO WEB – FIAB
 
 Gentile navigatore/trice, come previsto dalle norme vigenti (Regolamento UE 2016/679 e D.Lgs 196/2003) le forniamo le seguenti informazioni riguardanti il trattamento dei suoi dati personali raccolti tramite il sito web www.fiabitalia.it , di seguito “Sito”.
 
-Titolare del Trattamento è XXXX, con sede legale inXXXXXXXXXXXXXXXXXXXXXXXXX, Codice Fiscale e Partita Iva XXXXXXXXXXXXXXXX. Per contattare il Titolare è possibile scrivere al seguente indirizzo di posta elettronica:  xxxxxxxxxxxxxxxxxxxx. 
+Titolare del Trattamento è  
+ASSOCIAZIONE CICLO-AMBIENTALISTA CoSenza Ciclabile- FIAB APS  
+con sede legale in Cosenza Via Guido D'ORso 5  
+Codice Fiscale  98105970788.          
+Per contattare il Titolare è possibile scrivere al seguente  
+indirizzo di posta elettronica:  csciclabile@gmail.com  
 
 Finalità. Base giuridica dei trattamenti e tipi dei dati trattati.
 

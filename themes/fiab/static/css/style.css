@@ -3,6 +3,11 @@ a[href^="tel:"] {
 	color: inherit;
 	text-decoration: none;
 }
+a.plain:hover {
+	text-decoration: none;
+	color: unset;
+}
+
 textarea, input[type="text"], input[type="email"], input[type="search"], input[type="password"] {
 	-webkit-appearance: none;
 	-moz-appearance: caret;
@@ -1574,7 +1579,7 @@ p.footerpriv span {
 	font-size: 14px;
 	line-height: 20px;
 	font-weight: 300;
-	color: #0069A9;
+	color: #fff;
 }
 p.footerpriv img {
 	margin: 0 3px;
@@ -1585,7 +1590,7 @@ p.footerpriv img {
 	font-size: 14px;
 	line-height: 20px;
 	font-weight: 300 !important;
-	color: #0069A9 !important;
+	color: #fff !important;
 	margin: 0;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
@@ -1595,6 +1600,10 @@ p.footerpriv img {
 	color: #ffffff !important;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
+}
+
+.privacylink, .copyright-year {
+	color: #fff;
 }
 /************** footer end **************/
 /*-------------- media queries -------------------*/

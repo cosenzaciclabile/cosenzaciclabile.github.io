@@ -6,7 +6,7 @@ Tags: FIAB
 Slug: comuni-ciclabili
 Summary:È al via la prima fase di ComuniCiclabili, il progetto promosso da FIAB Federazione Italiana Ambiente e Bicicletta che valuta e attesta l’impegno dei territori nazionali nell’incentivare la ciclabilità
 Image: https://fiabitalia.it/wp-content/uploads/2025/01/San-Gervasio-6-1024x576.jpg
-
+Status: Draft
 
 È al via la prima fase di ComuniCiclabili, il progetto promosso da FIAB Federazione Italiana Ambiente e Bicicletta che valuta e attesta l’impegno dei territori nazionali nell’incentivare la ciclabilità come modello di mobilità sostenibile. Infatti, si è svolta oggi 31 gennaio la prima cerimonia del 2025 che porta all’assegnazione di 24 bandiere gialle e che è stata accompagnata come di consueto da un momento formativo dedicato in quest’occasione a fare chiarezza sulle recenti modifiche del Codice della Strada a cura del Centro Studi FIAB e sui benefici e i dati relativi alla Città 30.
 

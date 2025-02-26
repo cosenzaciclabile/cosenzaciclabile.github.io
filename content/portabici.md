@@ -6,7 +6,7 @@ Tags: FIAB
 Slug: portabici-per auto-cosa-dice-il-decreto-del-mit
 Summary:È al via la prima fase di ComuniCiclabili, il progetto promosso da FIAB Federazione Italiana Ambiente e Bicicletta che valuta e attesta l’impegno dei territori nazionali nell’incentivare la ciclabilità
 Image: https://fiabitalia.it/wp-content/uploads/2025/01/San-Gervasio-6-1024x576.jpg
-
+Status: Draft
 
 Il 21 gennaio 2025 è stato pubblicato sulla Gazzetta Ufficiale l’atteso Decreto del Ministero delle Infrastrutture e dei Trasporti che regola l’utilizzo delle strutture portabici, portasci e portabagagli sui veicoli, semplificando le normative e garantendo maggiore sicurezza.
 

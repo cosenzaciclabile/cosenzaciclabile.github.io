@@ -11,7 +11,7 @@
                             <p class="title1">Ogni giorno dalla Parte dell'ambiente</p>
                             <p class="title2">Ogni giorno al fianco di chi pedala</p>
                         </div>
-                        <a href="#" class="btn btn-primary btn1">Associati</a>
+                        <a href="/pages/associarsi-a-fiab-cosenzaciclabile" class="btn btn-primary btn1">Associati</a>
                     </div>
                 </div>
             </article>
@@ -56,6 +56,7 @@
             </article>
         </div>
     </section>
+    
     <!--==============================row_3=================================-->   
     <section class="row_3">
         <div class="container"> 
@@ -69,6 +70,7 @@
                     </div>
                 </article>
                 <article class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    {% if articles %}
                     <h2>Ultimi articoli</h2>
                     <div class="row">
                       <ul class="list-whatsnew">
@@ -83,6 +85,16 @@
                         {% endfor %}
                       </ul>
                     </div>
+                    {% else %}
+                    <a class="plain" target='_blank' href="https://fiabitalia.it/fiab/vantaggi-di-diventare-socio-a-fiab/rivista-bc/">
+                    <p class="title_welcome">BC<span>La rivista ufficiale della FIAB</span/p>
+                    <figure style="float:left;width: 170px; margin: 0 28px 10px 0;"><img src="https://fiabitalia.it/wp-content/uploads/2020/11/Logo-BC-2021-580x348.png" alt=""></figure>
+                    <div class="welcome_info">
+                        
+                        <p>Gli abbonati FIAB ricevono BC, una rivista completamente nuova che vuole affrontare una sfida difficile: diffondere la cultura della bicicletta e le pratiche di una mobilità diversa, più attenta all’ambiente e alle persone. Proprio con questo obiettivo presenta non solo inchieste di approfondimento sui  temi di attualità legati alla bicicletta non sportiva, ma dà spazio a tutto quanto vi gira intorno informando su tecnologia e materiali, curiosità, nuovi prodotti, proposte turistiche, salute, leggi e diritto</p>.
+                    </div>
+                    </a>
+                    {% endif %} 
                 </article>
             </div>
         </div>
@@ -98,17 +110,17 @@
                         <p>Ogni giorno siamo al fianco di migliata di cittadini che credono fermamente che la qualità della vita migliori in ambienti puliti ed ecosostenibili ed utilizzano la bicicletta per vivere la città.</p>
                      </article>
                     <article class="col-lg-4 col-md-4 col-sm-6 col-xs-12 racers">
-                        <h2>Ultimi eventi</h2>
+                        <h2>Eventi</h2>
                         <h3>In città, in Calabria e fuori porta</h3>
                         <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 list2col">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 list1col">
                                 <ul class="list2">
-                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">Traversata Coast to Coast</a></p></li>
-                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">Bimbimbici 2025.</a></p></li>
-                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">Giro dei sepolcri</a></p></li>
+                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a target="_blank" href="https://www.facebook.com/events/498016116451710?acontext=%7B%22event_action_history%22%3A[]%7D">1 Marzo 2025 Carnevale in bicicletta</a></p></li>
+                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">9 Marzo 2025 - Giornata del tesseramento sociale</a></p></li>
+                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">4 Aprile 2025 - Assemblea Soci</a></p></li>
                                     {#
-                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">lectus tristique.</a></p></li>
-                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">iaculis eleif diam.</a></p></li>
+                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">17 Aprile 2025 - Giro dei Sepolcri in bici.</a></p></li>
+                                    <li><em><img src="{{ SITEURL }}/theme/images/bullet1.jpg" alt=""></em><p><a href="#">10 Maggio 2025 - Bimbimbici</a></p></li>
                                     #}
                                 </ul>  
                             </div>
