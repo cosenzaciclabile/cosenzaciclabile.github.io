@@ -5,7 +5,7 @@ Category: FIAB Cosenza Ciclabile
 Tags: FIAB
 Slug: statuto
 Summary: Fiab Cosenza Ciclabile: statuto
-
+Image:
 
 #STATUTO
 

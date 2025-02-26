@@ -5,7 +5,7 @@ Category: FIAB
 Tags: FIAB
 Slug: attivita
 Summary: Le attività di Fiab Cosenza Ciclabile
-Image: https://fiabitalia.it/wp-content/uploads/2020/03/socio-fiab.jpg
+Image: 
 
 FIAB CosenzaCiclabile è attiva su diversi fronti, con un occhio di riguardo verso le nuove generazioni e un impegno costante nella promozione della bicicletta come strumento di mobilità sostenibile e di scoperta del territorio
 

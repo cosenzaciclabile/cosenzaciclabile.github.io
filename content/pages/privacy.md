@@ -4,8 +4,8 @@ Modified: 2025-02-10 12:22
 Category: FIAB
 Tags: FIAB
 Slug: privacy
-Summary: Le attività di Fiab Cosenza Ciclabile
-Image: https://fiabitalia.it/wp-content/uploads/2020/03/socio-fiab.jpg
+Summary: Privacy
+Image: 
 
 POLICY PRIVACY SITO WEB – FIAB 
 

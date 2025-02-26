@@ -9,12 +9,12 @@
 <meta property="og:title" content="{% block meta_title %} {{ article.title }}{% endblock %}" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{% block meta_url %}https://cosenzaciclabile.github.io/{{article.slug}}{% endblock %}" />
-<meta property="og:image" content="{% block meta_image %}https://cosenzaciclabile.github.io/{{ article.image }}{% endblock %}" />
+<meta property="og:image" content="{% block meta_image %}{{ article.image }}{% endblock %}" />
 
 <meta name="twitter:title" content="{% block twitter_title %}{{ article.title}}{% endblock %} ">
 <meta name="twitter:description" content="{% block twitter_description %}{{ article.summary|striptags }}{% endblock %}">
-<meta name="twitter:image" content="https://cosenzaciclabile.github.io/{{ article.image }}">
-<meta name="twitter:card" content="https://cosenzaciclabile.github.io/{{ article.image }}">
+<meta name="twitter:image" content="{{ article.image }}">
+<meta name="twitter:card" content="{{ article.image }}">
 
 <meta name="description" content="{% block description %}{{ article.description }}{% endblock %}">
 <meta name="author" content="{{ article.author }}">

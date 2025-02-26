@@ -5,7 +5,7 @@ Category: FIAB
 Tags: FIAB
 Slug: associarsi-a-fiab-cosenzaciclabile
 Summary: Le attività di Fiab Cosenza Ciclabile
-Image: https://fiabitalia.it/wp-content/uploads/2020/03/socio-fiab.jpg
+Image: 
 
 Associarsi a FIAB Cosenza Ciclabile è facile. Puoi farlo in tanti modi
 

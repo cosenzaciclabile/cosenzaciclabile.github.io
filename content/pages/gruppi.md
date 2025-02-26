@@ -5,7 +5,7 @@ Category: FIAB
 Tags: FIAB
 Slug: gruppi-di-lavoro
 Summary: I gruppi di lavoro. Trasformiamo il territorio!
-Image: https://fiabitalia.it/wp-content/uploads/2020/03/socio-fiab.jpg
+Image:
 
 ##Il gruppo tracce<a name="tracce"></a>
 Il gruppo Tracce è il cuore pulsante della nostra attività sul territorio. I nostri "esploratori" annotano meticolosamente i loro spostamenti, sia in area urbana che extraurbana, per creare una raccolta dettagliata di percorsi ciclabili. Questa mappatura è uno strumento prezioso per tutti coloro che si muovono in bicicletta, sia per necessità che per piacere, e per chi desidera scoprire il nostro territorio su due ruote.

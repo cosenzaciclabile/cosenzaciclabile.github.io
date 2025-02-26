@@ -5,7 +5,7 @@ Category: FIAB Cosenza Ciclabile
 Tags: FIAB
 Slug: chi-siamo
 Summary: Fiab Cosenza Ciclabile: chi siamo
-Image: /images/chi-siamo.jpg
+Image: 
 
 
 ##organigramna
